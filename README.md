@@ -1,32 +1,3 @@
-<style>
-        .marquee {
-          height: 50px;	
-          overflow: hidden;
-          position: relative;
-        }
-        .marquee strong {
-          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: limegreen;
-          position: absolute;
-          font-size: 1.2em;
-          width: 100%;
-          height: 100%;
-          margin: 0;
-          line-height: 50px;
-          text-align: center;
-          transform:translateX(100%);
-          animation: marquee 7s linear infinite;
-        }
-        @keyframes marquee {
-          0%   { 
-            transform: translateX(100%); 		
-          }
-          100% { 
-            transform: translateX(-80%); 
-          }
-        }
-</style>
-
 # [![matt](https://raw.githubusercontent.com/iMat1n/iMat1n/master/header.png)](https://github.com/iMat1n)
 
 ###### <span style="text-align: center;">[![Profile views](https://profile-counter.glitch.me/iMat1n/count.svg)](https://github.com/iMat1n)</span>
@@ -77,7 +48,3 @@
 
 ## 🕒 **Wakatime Stats**
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iMat1n&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-<div class="marquee">
-    <strong>Thanks For Checking In! See you Soon~</strong>
-</div>
