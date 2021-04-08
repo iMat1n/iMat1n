@@ -3,7 +3,7 @@
 - **🤓 Geek Dev.**
 - **💪 Linux/Android SuperUser**
 - **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Discord.py](https://github.com/Rapptz/discord.py) Lover 💖**
-- **I put mostly of my focus on [Python](https://python.org) cuz why not?**
+- **I mostly put my focus on [Python](https://python.org) cuz why not?**
 - **My Everyday usage is based on: `.py` `.html` `.css` `.js` `.sh`**
 - **Enjoy Your Seat~**
 
