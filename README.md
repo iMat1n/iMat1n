@@ -1,4 +1,35 @@
-# **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >v<**, this is Matt ~ | [![Profile views](https://gpvc.arturio.dev/iMat1n)](https://github.com/iMat1n)
+<style>
+        .marquee {
+          height: 50px;	
+          overflow: hidden;
+          position: relative;
+        }
+        .marquee strong {
+          font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
+          color: limegreen;
+          position: absolute;
+          font-size: 1.2em;
+          width: 100%;
+          height: 100%;
+          margin: 0;
+          line-height: 50px;
+          text-align: center;
+          transform:translateX(100%);
+          animation: marquee 7s linear infinite;
+        }
+        @keyframes marquee {
+          0%   { 
+            transform: translateX(100%); 		
+          }
+          100% { 
+            transform: translateX(-80%); 
+          }
+        }
+</style>
+
+# **Kon'nichiwa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >v<**, this is Matt ~
+
+<span style="text-align: center;">[![Profile views](https://profile-counter.glitch.me/iMat1n/count.svg)](https://github.com/iMat1n)</span>
 
 - **🤓 Geek Dev.**
 - **💪 Linux/Android SuperUser**
@@ -38,11 +69,15 @@
 
 ##  🐙 **Profile Stats**
 
-[![stats](https://github-readme-stats.vercel.app/api?username=iMat1n&show_icons=true&theme=radical)](https://github.com/iMat1n)
+[![stats](https://github-readme-stats.vercel.app/api?username=iMat1n&show_icons=true&theme=midnight-purple)](https://github.com/iMat1n)
 
 ![followers](https://img.shields.io/github/followers/iMat1n?color=pink&label=Followers&style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/iMat1n?affiliations=OWNER&color=pink&style=for-the-badge)
 
 
 ## 🕒 **Wakatime Stats**
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iMat1n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iMat1n&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+<div class="marquee">
+    <strong>Thanks For Checking In! See you Soon~</strong>
+</div>
