@@ -37,6 +37,7 @@
 ![TG](https://img.shields.io/badge/-uid1337-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/uid1337)
 ![Mail](https://img.shields.io/badge/-iMat1n@outlook.com-000fff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iMat1n@outlook.com)
 
+[![Discord](https://discord.c99.nl/widget/theme-1/376025708008570880.png)](https://discord.com)
 
 ##  🐙 **Profile Stats**
 
