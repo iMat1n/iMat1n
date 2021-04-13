@@ -42,7 +42,7 @@
 
 ##  🐙 **Profile Stats**
 
-[![stats](https://github-readme-stats.vercel.app/api?username=iMat1n&show_icons=true&theme=midnight-purple)](https://github.com/iMat1n)
+[![stats](https://github-readme-stats.vercel.app/api?username=iMat1n&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/iMat1n)
 
 ![followers](https://img.shields.io/github/followers/iMat1n?color=pink&label=Followers&style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/iMat1n?affiliations=OWNER&color=pink&style=for-the-badge)
