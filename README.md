@@ -7,7 +7,7 @@
 </h2>
 
 - **🤓 Geek Dev.**
-- **💪 Linux/Android SuperUser**
+- **💪 Darwin/Android SuperUser**
 - **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Discord.py](https://github.com/Rapptz/discord.py) [RIP] Lover 💖**
 - **I mostly put my focus on [Python](https://python.org).**
 - **My Everyday usage is based on: `.py` `.rs` `.sh`**
