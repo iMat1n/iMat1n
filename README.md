@@ -27,7 +27,7 @@
 ### **Langs I'm Learning :**
 
 [![Julia](https://img.shields.io/badge/-%232c3e50?style=flat-square&logo=julia)](https://julialang.org)
-
+[![Swift](https://img.shields.io/badge/-%232c3e50?style=flat-square&logo=swift)](https://swift.org)
 
 ### **Stuff I Usually Use:**
 
