@@ -7,10 +7,9 @@
 </h2>
 
 - **🤓 Geek Dev.**
-- **💪 Darwin/Android SuperUser**
-- **🔥 [Pyrogram](https://pyrogram.org) & 👑 [Discord.py](https://github.com/Rapptz/discord.py) [RIP] Lover 💖**
+- **💪 Darwin SuperUser**
 - **I mostly put my focus on [Python](https://python.org).**
-- **My Everyday usage is based on: `.py` `.rs` `.sh`**
+- **My Everyday usage is based on: `.py` `.swift` `.sh`**
 - **My [Gists](https://gist.github.com/iMat1n), You can find a bunch of useful stuff.**
 - **Enjoy~**
 
